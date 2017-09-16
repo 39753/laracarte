@@ -12,7 +12,7 @@
     }
 
     .flashy--success {
-        background-color: #99c93d;
+        background-color: #185ac9;
         color: #fff;
     }
 
